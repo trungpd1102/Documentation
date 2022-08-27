@@ -1,2 +1,2 @@
 will-change: opacity, transform ...
-Cho trì duyệt bi
+Cho trì duyệt biết để chú ý hơn đến animation này

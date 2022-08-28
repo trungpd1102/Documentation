@@ -1,2 +1,5 @@
-will-change: opacity, transform ...
+1. will-change: opacity, transform ...
 Cho trì duyệt biết để chú ý hơn đến animation này
+
+2. inset: top right bottom left
+- sorthand of top-right-bottom-left

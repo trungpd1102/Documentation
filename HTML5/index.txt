@@ -1,1 +1,2 @@
-1. Recommend using "readonly" insted of "disabled" 
+1. Recommend using "readonly" insted of "disabled" when prevent user input
+- Avoid conflict text color with iOS safari browser

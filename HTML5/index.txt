@@ -1,0 +1,1 @@
+1. Recommend using "readonly" insted of "disabled" 

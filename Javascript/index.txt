@@ -1,0 +1,4 @@
+1. Sử dung debugger 
+			debugger; // eslint-disable-line no-debugger
+2. Cẩn thận voi new Date() ở mobile browser
+- Voi format "YYYY-MM-DD hh:MM". Trên web pc nhan, nhưng trên web mobile k nhận
